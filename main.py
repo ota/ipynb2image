@@ -244,8 +244,8 @@ def main():
         help="Viewport width in CSS pixels (default: 1100)",
     )
     parser.add_argument(
-        "--scale", type=int, default=2, choices=[1, 2, 3],
-        help="Device pixel ratio for image sharpness (default: 2)",
+        "--scale", type=int, default=3, choices=[1, 2, 3],
+        help="Device pixel ratio for image sharpness (default: 3)",
     )
     parser.add_argument(
         "--theme", default="light", choices=list(THEMES),

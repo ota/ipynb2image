@@ -12,3 +12,6 @@ wheels/
 # Output images
 output/
 *.png
+
+# But keep assets
+!assets/*.png

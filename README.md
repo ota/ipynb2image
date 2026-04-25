@@ -57,4 +57,4 @@ uv run main.py notebook.ipynb -o /path/to/output
 
 | Light | Dark |
 |-------|------|
-| ![light](https://github.com/ota/ipynb2image/assets/light.png) | ![dark](https://github.com/ota/ipynb2image/assets/dark.png) |
+| ![light](assets/example_light.png) | ![dark](assets/example_dark.png) |

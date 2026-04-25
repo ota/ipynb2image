@@ -78,6 +78,9 @@ BASE_CSS = """
     box-shadow: none !important;
     border-radius: 0 !important;
   }}
+  .highlight .nb {{
+    color: var(--jp-mirror-editor-builtin-color) !important;
+  }}
   .jp-CodeMirrorEditor, .highlight, .highlight pre,
   .jp-RenderedText pre {{
     font-family: {code_font} !important;
